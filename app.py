@@ -15,7 +15,7 @@ elif media == 5:
     print("Recuperação")
 elif media < 5:
     print("Reprovado")
-=======
+=====================
 '''
 CRIE UM APLICATIVO QUE PEÇA 4 NOTAS DE UM ALUNO E RETORE A MÉDIA:
 
